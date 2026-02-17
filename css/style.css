@@ -134,6 +134,7 @@ header .navbar {
 /* Hero Section Styling */
 .hero-section {
     background: var(--primary-color);
+    background-image: url('../image/galery1.jpeg');
     min-height: 100vh;
 }
 
