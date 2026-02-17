@@ -133,8 +133,11 @@ header .navbar {
 
 /* Hero Section Styling */
 .hero-section {
-    /* background: var(--primary-color); */
-    background-image: url('../image/galery2.jpeg');
+    background: var(--primary-color);
+    /* background-image: url('../image/galery3.jpeg'); */
+    background-size: cover;
+    background-position: center;
+    fill-opacity: var(--dark-color);
     min-height: 100vh;
 }
 
